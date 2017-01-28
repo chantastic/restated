@@ -1,0 +1,29 @@
+{
+  "name": "restater",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "repository": "restater",
+  "author": {
+    "name": "Michael Chan",
+    "email": "mijoch@gmail.com",
+    "url": "http://chantastic.org"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  }
+}
