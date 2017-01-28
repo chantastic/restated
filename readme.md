@@ -1,4 +1,4 @@
-# restater [![Build Status](https://travis-ci.org/chantastic/restater.svg?branch=master)](https://travis-ci.org/chantastic/restater)
+# restated [![Build Status](https://travis-ci.org/chantastic/restated.svg?branch=master)](https://travis-ci.org/chantastic/restated)
 
 >
 
@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save restater
+$ npm install --save restated
 ```
 
 ## License
